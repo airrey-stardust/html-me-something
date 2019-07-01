@@ -10,8 +10,10 @@ html {
   p {
     font-family: "Arial";
     margin-top: 20px;
-    margin-right: 100px;
-    margin-left: 100px;
+    margin-right: 300px;
+
+
+
     
   }
 
@@ -23,9 +25,11 @@ html {
     
   }
 
-  h2 {font-size: 30px;
+  h2 {font-size: 50px;
     margin-left: 20px;
-    color: chartreuse;}
+    color: slategray;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+  }
 
   h3 {font-size: 30px;
     margin-left: 200px;}
@@ -36,6 +40,12 @@ html {
         margin: 0 auto;
         background-color: lightseagreen;
         
+    }
+    article { background-color: aquamarine;
+      padding-left: 25%;
+
+    
+
     }
     header,
     main,
